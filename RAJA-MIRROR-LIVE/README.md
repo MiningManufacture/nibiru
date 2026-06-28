@@ -9,3 +9,4 @@
 - current/task.md — текущее задание.
 - current/tick.json — внутреннее время и статусы.
 - screenshots/ — последние снимки окон звёзд.
+- index.html — GitHub Pages страница зеркала.
